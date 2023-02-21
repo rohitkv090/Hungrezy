@@ -15,4 +15,4 @@ Live Link:https://hungrezy.onrender.com
 <h4>In frontend:</h4>
 <ul><li>REACT_APP_BACKEND_URL</li></ul>
 
-Note:Add 2dsphere indexing in cities model and user indexing in users model in mongodb and user request.rest for api's and sample data
+Note: Add 2dsphere indexing in cities model and user indexing in users model in mongodb and user request.rest for api's and sample data
