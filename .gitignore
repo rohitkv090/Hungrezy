@@ -1,6 +1,5 @@
 /backend/node_modules
 /frontend/node_modules
-/screenshots
 /backend/.env
 /frontend/.env
 /schema.json
