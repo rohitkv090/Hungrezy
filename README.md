@@ -1,6 +1,6 @@
 # Hungrezy
 
-<h2>•It's food delivery website from which you can order food and search restaurant based on cities and localities</h2>
+<h2>It's food delivery website from which you can order food and search restaurant based on cities and localities</h2>
 
 Live Link:https://hungrezy.onrender.com
 
@@ -14,3 +14,5 @@ Live Link:https://hungrezy.onrender.com
 </ul>
 <h4>In frontend:</h4>
 <ul><li>REACT_APP_BACKEND_URL</li></ul>
+
+Note:Add 2dsphere indexing in cities model and user indexing in users model in mongodb and user request.rest for api's and sample data
