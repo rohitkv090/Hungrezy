@@ -18,7 +18,7 @@ Live Link:https://hungrezy.onrender.com
 Note: Add 2dsphere indexing in cities model and user indexing in users model in mongodb and user request.rest for api's and sample data
 
 
-#UI
+# UI
 
 
 ![image](https://github.com/kratos-090/Hungrezy/assets/64844155/a39d5ee8-1893-41a3-9827-40dc3a725f5a)
