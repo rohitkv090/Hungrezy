@@ -217,12 +217,12 @@ function LoginCheckout() {
     }
   };
 
-  const handleOpen = () => {
-    setOpen(true);
-    if (userCoordinates.latitude === undefined) {
-      getUserCoordinates();
-    }
-  };
+  // const handleOpen = () => {
+  //   setOpen(true);
+  //   if (userCoordinates.latitude === undefined) {
+  //     getUserCoordinates();
+  //   }
+  // };
 
   const handleClose = () => {
     setOpen(false);
