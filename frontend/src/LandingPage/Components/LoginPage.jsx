@@ -490,7 +490,7 @@ function LoginPage(props) {
                 </DefaultButton>
 
                 <GoogleLogin
-                  clientId="175559645991-3mrpajh4dnlmn3n0fltr6hasvs8pkcvo.apps.googleusercontent.com"
+                  clientId="894897470458-19ltitu2rt0655bfbuu80990cm2jja1v.apps.googleusercontent.com"
                   render={(renderProps) => (
                     <DefaultButton
                       onClick={renderProps.onClick}
